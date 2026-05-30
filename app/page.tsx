@@ -40,34 +40,64 @@ const galleryImages = Array.from({ length: 10 }, (_, index) => `/images/gallery/
 
 const reviews = [
   {
-    quote: "Excellent work, very professional and left everything tidy. Would happily recommend.",
-    name: "Google reviewer",
-    date: "5-star review",
+    quote:
+      "Excellent communication and really friendly guy. Ground out some tree stumps in 30 degree heat and did a top notch job. Will definitely use again.",
+    name: "Tina Christmas",
+    date: "Facebook recommendation",
   },
   {
-    quote: "Great communication from start to finish and the garden looked brilliant afterwards.",
-    name: "Local customer",
-    date: "5-star review",
+    quote:
+      "We've had Dan and Jimmy round a few times to help with our conifer hedges. They've done a fantastic job. Reliable and knowledgeable.",
+    name: "Jack Moulton",
+    date: "Facebook recommendation",
   },
   {
-    quote: "Arrived when promised, worked hard and took all the waste away. Top service.",
-    name: "Facebook reviewer",
-    date: "Recommendation",
+    quote:
+      "Excellent service. Professional work, value for money, all cuttings removed and advice given. Would use again. 100% recommend.",
+    name: "Kay Gill",
+    date: "Facebook recommendation",
   },
   {
-    quote: "Very tidy job on a large hedge reduction. Friendly, reliable and easy to deal with.",
-    name: "Lymm customer",
-    date: "5-star review",
+    quote:
+      "Excellent workmanship. Always shows up, leaves everywhere tidy and does a brilliant job.",
+    name: "Abi Owers",
+    date: "Facebook recommendation",
   },
   {
-    quote: "Quick quote, fair price and the work was completed to a high standard.",
-    name: "Google reviewer",
-    date: "5-star review",
+    quote:
+      "Fantastic job shaping and trimming our tree. Very happy with the work and would highly recommend.",
+    name: "Greta Max Frimmel",
+    date: "Facebook recommendation",
   },
   {
-    quote: "The difference before and after was amazing. Would definitely use again.",
-    name: "Local homeowner",
-    date: "5-star review",
+    quote:
+      "Fabulous service. Communication was fast, clear and organised. Work completed quickly, all debris cleared and taken away.",
+    name: "Maxine Thornhill",
+    date: "Facebook recommendation",
+  },
+  {
+    quote:
+      "Brilliant job and done perfectly. The pride the guys take in their work and the tidy up afterwards was exceptional.",
+    name: "Scott Hendry",
+    date: "Facebook recommendation",
+  },
+  {
+    quote:
+      "The garden looks completely transformed. Great advice, all rubbish taken away and a quality job throughout.",
+    name: "David Hurst",
+    date: "Facebook recommendation",
+  },
+  {
+    quote:
+      "Dan and his team were responsive, reliable, knowledgeable and tidy, with not a twig left behind.",
+    name: "Alison Smith",
+    date: "Facebook recommendation",
+  },
+  {
+    quote:
+      "Fantastic service. Came the next day after enquiry and went above and beyond. Really considerate and thoughtful.",
+    name: "Lydia Louvain",
+    date: "Facebook recommendation",
   },
 ];
 
